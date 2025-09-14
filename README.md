@@ -12,7 +12,7 @@ Project Overview
 4. How many staff per patients should we aim for in emergency rooms.
    
 # Scope
-Patients will enter at with a Poisson distribution rate, so there will be lulls and rushes.
+Patients will enter with a Poisson distribution rate, so there will be lulls and rushes.
 The ER will have an adjustable number of staff that can dynamically change their assignment from helping with intake/diagnosis to treating patients. The staff number can only be changed at the beginning of the simulation
 Patients will be full of data such as name, birthday, insured, and other factors
 The simulation will be given 100 patients to process.
